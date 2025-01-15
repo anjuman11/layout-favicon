@@ -1,0 +1,30 @@
+*{
+	margin: 2px;
+}
+.header{
+	height:150px;
+	background: lightyellow;
+}
+.wrapper{
+	overflow: hidden;
+
+}
+.blog{
+	width:60%;
+	height:300px;
+	background: teal;
+	float: left;
+
+}
+.contact{
+	width:35%;
+	height:300px;
+	background: aquamarine;
+	float: right;
+
+}
+.footer{
+	height: 150px;
+	background: limegreen;
+
+}
